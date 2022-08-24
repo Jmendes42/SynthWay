@@ -1,0 +1,1 @@
+I'll start by creating a simple square wave at 500hz, outputing from pin 5
