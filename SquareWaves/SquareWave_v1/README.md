@@ -1,0 +1,1 @@
+In this one I'll create a square wave inicially at 500hz. The easyest way to creat a square/rectangular wave is to output high and low signals, mantaining the high signal for a given time (amplitude) with a time gap between them.

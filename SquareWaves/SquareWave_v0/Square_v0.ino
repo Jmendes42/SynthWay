@@ -1,6 +1,7 @@
 #define outPin 5
 
-byte    freq = 2000;
+byte    amp = 1000;
+byte    timeGap = 1000;
 
 void setup() 
 {
@@ -10,7 +11,7 @@ void setup()
 void loop() 
 {
     digitalWrite(outPin, HIGH);
-    delayMicroseconds(freq);
+    delayMicroseconds(amp);
     digitalWrite(outPin, LOW);
-    delayMicroseconds(freq);
+    delayMicroseconds(timeGap);
 }
