@@ -11,3 +11,5 @@ Books:
 
 Web:
 https://www.circuitbasics.com/build-a-great-sounding-audio-amplifier-with-bass-boost-from-the-lm386/.
+
+![IMG-5178](https://user-images.githubusercontent.com/74921179/188052495-c4ec70ab-ac7c-4c85-937c-a4af5d9af2bc.jpg)
