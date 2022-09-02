@@ -7,4 +7,4 @@ For these new experiment I'll be using the function tone() to generate the wave.
 I'll be adding a potentiometer (10K) to regulate frequency.
 
 Schematic:
-![Schematic_New Project_2022-09-02(1)](https://user-images.githubusercontent.com/74921179/188049966-b78d850d-1db7-4f6b-ba20-68e779569e80.png)
+![Schematic_New Project_2022-09-02](https://user-images.githubusercontent.com/74921179/188050045-8fc6af8b-547f-4b82-84de-2eb533845b02.png)
