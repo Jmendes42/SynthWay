@@ -8,8 +8,10 @@ I'll start by experimenting with generating wave forms using the hardware I have
 Resources:
 
   Books:
+  
     -> Arduino Music and Audio Projects - Mike Cook
 
   Web:
+  
   Active speaker:
     -> https://www.circuitbasics.com/build-a-great-sounding-audio-amplifier-with-bass-boost-from-the-lm386/.
